@@ -1,0 +1,17 @@
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Restaurante.xml
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Restaurante.deps.json
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Restaurante.runtimeconfig.json
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Restaurante.runtimeconfig.dev.json
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Restaurante.dll
+E:\Projetos\codenation\RestauranteSimples\Restaurante\bin\Debug\netcoreapp2.2\Restaurante.pdb
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.RazorAssemblyInfo.cache
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.RazorAssemblyInfo.cs
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.AssemblyInfoInputs.cache
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.AssemblyInfo.cs
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.RazorTargetAssemblyInfo.cache
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.dll
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.pdb
+E:\Projetos\codenation\RestauranteSimples\Restaurante\obj\Debug\netcoreapp2.2\Restaurante.csprojAssemblyReference.cache

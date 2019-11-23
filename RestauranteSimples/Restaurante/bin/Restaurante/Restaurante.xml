@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Restaurante</name>
+    </assembly>
+    <members>
+        <member name="T:Restaurante.Controllers.PratoController">
+            <summary>
+            pratos do restaurante
+            </summary>
+        </member>
+        <member name="M:Restaurante.Controllers.PratoController.Get">
+            <summary>
+            Retorna os pratos cadastrados
+            </summary>
+            <remarks>retorna uma lista de pratos</remarks>
+            <response code="200">sucesso na requisição</response>
+            <response code="400">requisição inválida</response>
+        </member>
+    </members>
+</doc>
